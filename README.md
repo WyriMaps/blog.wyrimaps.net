@@ -1,2 +1,2 @@
 # blog.wyrimaps.net
-http://blog.wyrihaximus.net/
+http://blog.wyrimaps.net/
